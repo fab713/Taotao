@@ -1,0 +1,4 @@
+com\taotao\item\pojo\Item.class
+com\taotao\item\FreemarkerController.class
+com\taotao\item\controller\ItemController.class
+com\taotao\item\listener\ItemAddMesssageListener.class
