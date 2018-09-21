@@ -1,0 +1,3 @@
+1.操作数据库的接口，打包方式jar，通常存放mybatis生成的mapper和对用的.xml文件，类似与传统项目中的DAO接口。
+2.编写mybatis的配置文件。
+3.mybatis整合spring，通过spring管理SqlSessionFactory、mapper代理对象。需要mybatis和spring的整合包。
